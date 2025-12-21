@@ -1,0 +1,7 @@
+{
+  "name": "PaletteAI Final 1",
+  "description": "A personalized style-learning image generation platform. Upload reference images to extract a unique artistic DNA, then generate new artwork using FLUX.2-dev via Hugging Face Inference.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
